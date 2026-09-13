@@ -1,18 +1,26 @@
-# AbiQuran Web
+# AbiQuran Web v2
 
-Website sederhana untuk AbiQuran, siap dipublikasikan dengan GitHub Pages.
+Landing page AbiQuran berbasis HTML/CSS/JS, siap untuk GitHub Pages.
 
-## Isi
-- `index.html` — halaman utama
-- `style.css` — tampilan responsif
-- `abiquran-poster.jpg` — gambar hero
-- Tombol Download APK mengarah ke GitHub Release AbiQuran v1.0.0-debug.
+## Upload ke repository
+Upload isi folder ini ke root repository `Padangsari/AbiQuran`:
+- index.html
+- style.css
+- folder assets/
+
+## Download APK
+Tombol download diarahkan ke:
+GitHub Release `v1.0.0-debug` / `AbiQuran.v.1.00.apk`
 
 ## GitHub Pages
-Repository: https://github.com/Padangsari/AbiQuran
+Settings → Pages → Deploy from a branch → main → /(root) → Save.
 
-Di GitHub:
-Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main → Folder: /(root) → Save.
+Web ini memakai screenshot asli yang dikirim untuk menampilkan fungsi aplikasi. Klik screenshot untuk memperbesar.
 
-Setelah aktif, alamat project site biasanya:
-https://padangsari.github.io/AbiQuran/
+
+## Screenshot carousel
+Bagian tampilan aplikasi menggunakan carousel horizontal: bisa digeser kiri/kanan dengan jari di HP, atau tombol panah di layar besar.
+
+
+### MaxuS Developer
+Website AbiQuran sudah memiliki slot navigasi ke website pusat MaxuS Developer. Link saat ini sengaja menggunakan `#` karena website pusat belum dibuat. Setelah selesai, edit `href="#"` pada `index.html` di bagian `developer-link` menjadi URL MaxuS Developer.
