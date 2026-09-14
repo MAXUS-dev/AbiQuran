@@ -23,4 +23,11 @@ Bagian tampilan aplikasi menggunakan carousel horizontal: bisa digeser kiri/kana
 
 
 ### MaxuS Developer
-Website AbiQuran sudah memiliki slot navigasi ke website pusat MaxuS Developer. Link saat ini sengaja menggunakan `#` karena website pusat belum dibuat. Setelah selesai, edit `href="#"` pada `index.html` di bagian `developer-link` menjadi URL MaxuS Developer.
+Website AbiQuran sudah terhubung ke website pusat MaxuS Developer: `https://maxus-dev.github.io/`.
+
+
+## Download pustaka offline
+https://github.com/MAXUS-dev/AbiQuran/releases/download/Ver.1.0/abiquran_pustaka_offline_full.zip
+
+## Web MaxuS Developer
+https://maxus-dev.github.io/
